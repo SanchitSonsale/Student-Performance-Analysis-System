@@ -66,11 +66,11 @@ Sanchit,100,92,56,68,90,95,85
 ## Why this project is important for me :-
 
 This project helped me to understand:
-  a. NumPy arrays and operations
-  b. Real-world data handling using CSV
-  c. How to structure a Python project
-  d. How analysis logic works on large data
-  e. This is a beginner-friendly project but very strong in logic.
+NumPy arrays and operations
+Real-world data handling using CSV
+How to structure a Python project
+How analysis logic works on large data
+This is a beginner-friendly project but very strong in logic.
 
 ## Future improvements :-
 

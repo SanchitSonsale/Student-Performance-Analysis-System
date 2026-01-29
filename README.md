@@ -62,8 +62,8 @@ Sanchit,100,92,56,68,90,95,85
 
 2. Run the main file
 - python main.py
-  
-3. Why this project is important for me :-
+
+## Why this project is important for me :-
 
 This project helped me to understand:
   a. NumPy arrays and operations
@@ -72,7 +72,7 @@ This project helped me to understand:
   d. How analysis logic works on large data
   e. This is a beginner-friendly project but very strong in logic.
 
-4. Future improvements :-
+## Future improvements :-
 
 - Add login system
 - Add graphical interface
